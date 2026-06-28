@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there <img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/00d5c232-9afd-4148-a8a3-c2acfb83d766" />
+
 
 <!--
 **KeepJoyTod/KeepJoyTod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I am open to internship opportunities in any interesting direction.
+ I am open to internship opportunities in any interesting direction.😊
 
 🌱 Born 2005-11-20 📍 Across China / Remote.
 
